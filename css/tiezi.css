@@ -1,0 +1,18 @@
+body
+{
+    background-color: #eeeeee;
+}
+.user-left,.user-right
+{
+    display: inline-block;
+    border: solid 1px black;
+    vertical-align: top;
+}
+.user-right
+{
+    width: 780px;
+}
+.user-left
+{
+    width: 145px;
+}
